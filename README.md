@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello! I'm a Fullstack Developer particularly in the MERN stack. I'm eager to expand my skills, connect with new people, and explore fresh opportunities. I pride myself on being adaptable and capable of independently acquiring new skills. Open to various opportunities, I'm excited about the prospect of continuous learning and growth in both frontend and backend development. If you have a passion for coding and collaboration, let's connect and code together! 🚀
 
 # 💻 Tech Stack:
